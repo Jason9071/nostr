@@ -1,0 +1,23 @@
+{
+  "name": "nostr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason9071/nostr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jason9071/nostr/issues"
+  },
+  "homepage": "https://github.com/Jason9071/nostr#readme",
+  "dependencies": {
+    "nostr-tools": "^1.2.3",
+    "ws": "^8.12.0"
+  }
+}
